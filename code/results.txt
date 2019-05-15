@@ -1,0 +1,5 @@
+Using configuration: {'training': {'num_epochs': 10, 'print_freq': 25, 'lr': 0.001}, 'words': {'vocab_cutoff': 0}, 'model': {'num_layers': 2, 'embed_dim': 300, 'hidden_dim': 500}, 'data': {'batch_size': 50000, 'words_per_sequence': 200}}
+2066 vocabulary
+12928 lines
+35383777 words
+Epoch: 1
